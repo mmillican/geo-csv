@@ -1,0 +1,5 @@
+"id", "name", "code", "state_province_file_name"
+1, "United States", "USA", "us-states.csv"
+2, "Canada", "CAN", "ca-provinces.csv"
+3, "Australia", "AUS", ""
+4, "United Kingdom", "UK", ""
